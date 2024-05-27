@@ -3,12 +3,12 @@ Thank you for visiting my GitHub profile, I'm so excited you are here!
 
 ## About Me:
 
-🤓 Currently pursuing my second Masters' in Computer Science at Trinity College Dublin
-👨‍💻 Available for full-time opportunities from Jun onwards 2024
-🏎️ An avid and fast learner with 1+ years of experience in Machine Learning, Computer Vision, Deep Learning and GenAI
-📝 Sharing knowledge and experiences on 📓Medium
-📈 Open source dataset contributor on Kaggle
-✅ Answer queries about Python, Numpy, Opencv on StackOverflow in free time.
+- 🤓 Currently pursuing my second Masters' in Computer Science at Trinity College Dublin.
+- 👨‍💻 Available for full-time opportunities from Jun onwards 2024
+- 🏎️ An avid and fast learner with 1+ years of experience in Machine Learning, Computer Vision, Deep Learning and GenAI
+- 📝 Sharing knowledge and experiences on 📓Medium
+- 📈 Open source dataset contributor on Kaggle
+- ✅ Answer queries about Python, Numpy, Opencv on StackOverflow in free time.
 
 ## 📫 How to reach me?
 
