@@ -14,8 +14,8 @@ Thank you for visiting my GitHub profile, I'm so excited you are here!
 
 If you would like to discuss these things, you can join me on LinkedIn. You can also ask me anything.
 
-👨‍💼 https://www.linkedin.com/in/frason-francis/
-📩 kalapurf@tcd.ie
+- 👨‍💼 https://www.linkedin.com/in/frason-francis/
+- 📩 kalapurf@tcd.ie
 
 
 ## Fun Facts:
